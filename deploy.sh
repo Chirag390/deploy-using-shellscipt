@@ -3,7 +3,7 @@ set -e
 
 APP_NAME="portfolio"
 DOCKER_USER="your-dockerhub-username"   # change this
-REPO_PATH="/path/to/portfolio-devops"
+REPO_PATH="/home/chirag390/portfolio-deveops"
 
 cd $REPO_PATH || exit
 
